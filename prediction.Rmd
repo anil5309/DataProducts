@@ -1,0 +1,29 @@
+---
+title: "Prediction of Child Health based on Parent's Health"
+author: "AK"
+date: "March 27, 2016"
+output: slidy_presentation
+---
+
+## Introduction
+
+This application predicts  Health  of child through his gender and the Health of the parents.  
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Code and Output
+
+```{r}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
